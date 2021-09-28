@@ -41,12 +41,16 @@ public class HashMap1 {
         int maxAge = list.stream().map(Employee::getAge).max(Integer::compare).get();
 
         //Displaying the max age of Employee
-        System.out.println("Maximum Age of Employee:: ");
+        System.out.println("\n\nMaximum Age of Employee:: ");
         list.stream().filter(e -> e.getAge() == maxAge).forEach(System.out::println);
+
+        //Displaying the employee list who's age is greater than 35
+        System.out.println("\n\nEmployee who's age is >= 35:: ");
+        list.stream().filter(e-> e.getAge() >= 35).forEach(System.out::println);
 
         //Displaying the max Salary of Employee
         Double maxSalary = map.values().stream().map(Employee::getSalary).max(Double::compare).get();
-        System.out.println("Maximum Salary of Employee:: ");
+        System.out.println("\n\nMaximum Salary of Employee:: ");
         map.values().stream().filter(e -> e.getSalary() == maxSalary).forEach(System.out::println);
 
 

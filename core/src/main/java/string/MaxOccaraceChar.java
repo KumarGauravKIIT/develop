@@ -20,6 +20,8 @@ public class MaxOccaraceChar {
         int len = str.length();
         for (int i=0; i<len; i++)
             count[str.charAt(i)]++;
+//
+//        System.out.println("Count+++++"+count.length);
 
         int max = -1;  // Initialize max count
         char result = ' ';   // Initialize result
@@ -43,7 +45,7 @@ public class MaxOccaraceChar {
     // Driver Method
     public static void main(String[] args)
     {
-        String str = "sample string";
+        String str = " samapale striang ass";
         System.out.println("Max occurring character is " +
                 getMaxOccuringChar(str));
     }
