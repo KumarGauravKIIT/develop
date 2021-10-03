@@ -1,10 +1,10 @@
-package com.hkr.account;
+package com.gurman.microservices.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
