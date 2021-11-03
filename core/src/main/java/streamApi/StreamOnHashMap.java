@@ -3,8 +3,9 @@ package streamApi;
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
-
+import java.util.stream.Collectors;
 
 
 public class StreamOnHashMap {
@@ -17,6 +18,25 @@ public class StreamOnHashMap {
         m.put(42, "Priyanka");
         m.put(90, "Mayank");
         m.put(27, "Joseph");
+
+
+        Map<Integer, String> m1 = new HashMap<>();
+
+        m1.put(101, "Kumar1");
+        m1.put(22, "Rahul1");
+        m1.put(42, "Priyanka1");
+        m1.put(90, "Mayank1");
+        m1.put(27, "Joseph1");
+
+
+        List<Map<Integer, String>> mapList = new ArrayList<>();
+
+        mapList.add(m);
+        mapList.add(m1);
+
+
+//        mapList.stream().forEach();
+
 
 //        List l = new
 

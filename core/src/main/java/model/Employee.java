@@ -5,53 +5,127 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
+import java.util.Objects;
 
 
-@Data
-@AllArgsConstructor
-@NoArgsConstructor
+//@Data
+//@AllArgsConstructor
+//@NoArgsConstructor
 public class Employee implements Serializable {
 
     private static final long serialVersionUID = 103229847384567356L;
 
-    Integer age;
-    Double salary;
+    int id;
     String name;
-    String id;
-    String address;
-    int rating;
+    int age;
+    String gender;
+    String department;
+    int yearOfJoining;
+    double salary;
 
+    public Employee() {
+    }
 
-    @Override
-    public boolean equals(Object obj){
-        if (obj == null)
-            return false;
+    public Employee(int id, String name, int age, String gender, String department, int yearOfJoining, double salary) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+        this.gender = gender;
+        this.department = department;
+        this.yearOfJoining = yearOfJoining;
+        this.salary = salary;
+    }
 
-        if (this.getClass() != obj.getClass())
-            return false;
+    public static long getSerialVersionUID() {
+        return serialVersionUID;
+    }
 
-        Employee emp = (Employee) obj;
+    public int getId() {
+        return id;
+    }
 
-        return (this.id == emp.id || this.id.equals(emp.id)) && (this.name == emp.name || this.name.equals(emp.name));
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    public String getDepartment() {
+        return department;
+    }
+
+    public void setDepartment(String department) {
+        this.department = department;
+    }
+
+    public int getYearOfJoining() {
+        return yearOfJoining;
+    }
+
+    public void setYearOfJoining(int yearOfJoining) {
+        this.yearOfJoining = yearOfJoining;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+
+    public void setSalary(double salary) {
+        this.salary = salary;
     }
 
 
     @Override
-    public int hashCode(){
-        int hash = (this.id == null? 0:this.id.hashCode()) +
-                (this.name == null?0:this.name.hashCode());
-        return hash;
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Employee)) return false;
+        Employee employee = (Employee) o;
+        return getId() == employee.getId() &&
+                getAge() == employee.getAge() &&
+                getYearOfJoining() == employee.getYearOfJoining() &&
+                Double.compare(employee.getSalary(), getSalary()) == 0 &&
+                getName().equals(employee.getName()) &&
+                getGender().equals(employee.getGender()) &&
+                getDepartment().equals(employee.getDepartment());
     }
 
     @Override
-    public String toString(){
-        return "Employee id= "+id+
-                ", Name = " +name+
-                ", Address = "+address+
-                ", Salary = "+salary+
-                ", Rating = "+rating+
-                ", Age = "+age;
-
+    public int hashCode() {
+        return Objects.hash(getId(), getName(), getAge(), getGender(), getDepartment(), getYearOfJoining(), getSalary());
     }
 
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                ", gender='" + gender + '\'' +
+                ", department='" + department + '\'' +
+                ", yearOfJoining=" + yearOfJoining +
+                ", salary=" + salary +
+                '}';
+    }
 }

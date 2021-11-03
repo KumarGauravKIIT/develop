@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59299bca-6280-41f5-a1c3-12e88863142c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/anonymous/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/map/HashMapSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/streamApi/EntryObjExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$1EnglishGreeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/MyInter1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/MyInter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/ParentInter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/TestDefaultClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/AClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/MyInter1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/MyInter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/TestDefaultClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/ds/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/ds/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/map/HashMap1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/map/HashMapSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/AddStringSizes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/FindDuplicatesInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/OccuranceOfAllCharInString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/SecondLargestNumberInList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/model/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/singleton/SingletonClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/EntryObjExample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/EntryObjExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/StreamOnHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/StreamOnList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/string/MaxOccaraceChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/thread/RaceConditionSolution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/thread/TicketBooking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/core/core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/streamApi/StreamOnList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/streamApi/StreamOnList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Czni6cFzre2n8CBQKTBdegIJpD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HashMapSimple">
+    <configuration name="EntryObjExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.EntryObjExample" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.HashMapSimple" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamOnList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.StreamOnList" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anonymous.Test" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anonymous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapSimple" />
+        <item itemvalue="Application.EntryObjExample" />
+        <item itemvalue="Application.StreamOnList" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59299bca-6280-41f5-a1c3-12e88863142c" name="Changes" comment="" />
+      <created>1659814406445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659814406445</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
