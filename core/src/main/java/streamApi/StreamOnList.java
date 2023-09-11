@@ -36,15 +36,13 @@ public class StreamOnList {
         employeeList.add(emp10);
 
 
-       List<Employee> newEmployees = employeeList.stream().filter(e -> e.getAge() == 43 || e.getAge() == 31).collect(Collectors.toList());
-
+        List<Employee> newEmployees = employeeList.stream().filter(e -> e.getAge() == 43 || e.getAge() == 31).collect(Collectors.toList());
 
 
 //        newEmployees.stream().forEach(System.out::println);
 
 
 //        System.out.println();
-
 
 
         //Print the List
@@ -134,7 +132,6 @@ public class StreamOnList {
 //        System.out.println(em);
 
 
-
 //        Employee resultUser = empList.stream()
 //                .filter(user -> user.getName().equals("Amelia Zoe"))
 //                .collect(toSingleton());
@@ -145,13 +142,6 @@ public class StreamOnList {
         //Maximum number in list
 //        List<Integer> noList = Arrays.asList(12,45,23,22,98,102, 78);
 //        System.out.println("Maximum number in the list is : "+noList.stream().mapToInt(v -> v).max());
-
-
-
-
-
-    }
-
 
 
 //    public static <T> Collector<T, ?, T> toSingleton() {
@@ -167,4 +157,5 @@ public class StreamOnList {
 //    }
 
 
+    }
 }

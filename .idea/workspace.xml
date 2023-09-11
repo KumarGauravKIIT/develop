@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59299bca-6280-41f5-a1c3-12e88863142c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/anonymous/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/map/HashMapSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/streamApi/EntryObjExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$1EnglishGreeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/anonymous/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/MyInter1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/MyInter2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/ParentInter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface1/TestDefaultClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/AClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/MyInter1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/MyInter2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/defaultInterface2/TestDefaultClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/ds/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/ds/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/map/HashMap1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/map/HashMapSimple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/AddStringSizes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/FindDuplicatesInArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/OccuranceOfAllCharInString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/miscellaneous/SecondLargestNumberInList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/model/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/singleton/SingletonClass1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/EntryObjExample$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/EntryObjExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/StreamOnHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/streamApi/StreamOnList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/string/MaxOccaraceChar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/thread/RaceConditionSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/target/classes/thread/TicketBooking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/core/core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/streamApi/StreamOnList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/streamApi/StreamOnList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapSimple">
+  <component name="RunManager" selected="Maven.core [clean,install]">
     <configuration name="EntryObjExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamApi.EntryObjExample" />
       <module name="core" />
@@ -128,6 +91,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="core [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/core" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.EntryObjExample" />
+      <item itemvalue="Application.HashMapSimple" />
+      <item itemvalue="Application.StreamOnList" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Maven.core [clean,install]" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HashMapSimple" />
