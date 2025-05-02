@@ -39,7 +39,7 @@ public class StreamOnList {
         List<Employee> newEmployees = employeeList.stream().filter(e -> e.getAge() == 43 || e.getAge() == 31).collect(Collectors.toList());
 
 
-//        newEmployees.stream().forEach(System.out::println);
+        newEmployees.stream().forEach(System.out::println);
 
 
 //        System.out.println();

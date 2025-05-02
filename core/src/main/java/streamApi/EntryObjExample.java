@@ -10,7 +10,7 @@ import java.util.Map;
 public class EntryObjExample {
 
     public static void main(String[] args) {
-        val empEntry = new Map.Entry<Integer, List<Employee>>() {
+        Map.Entry<Integer, List<Employee>> empEntry = new Map.Entry<Integer, List<Employee>>() {
             @Override
             public Integer getKey() {
                 return null;

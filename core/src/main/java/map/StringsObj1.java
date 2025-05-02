@@ -10,8 +10,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class StringsObj1 {
 
-    String a;
-    String b;
-    String c;
+    String firstString;
+    String secondString;
+    String thirdString;
 
 }

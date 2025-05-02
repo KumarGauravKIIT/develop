@@ -5,9 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59299bca-6280-41f5-a1c3-12e88863142c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/functional/ComsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/functional/PredicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/model/EmployeeDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/anonymous/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/anonymous/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/map/MapPratice.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/map/MapPratice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/map/StringsObj1.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/map/StringsObj1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/streamApi/EntryObjExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/streamApi/EntryObjExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/streamApi/StreamOnList.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/streamApi/StreamOnList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$1EnglishGreeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses$HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/anonymous/HelloWorldAnonymousClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/anonymous/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface1/MyInter1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface1/MyInter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface1/ParentInter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface1/TestDefaultClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface2/AClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface2/MyInter1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface2/MyInter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/defaultInterface2/TestDefaultClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/ds/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/ds/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/map/HashMap1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/map/HashMapSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/map/MapPratice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/map/StringsObj1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/miscellaneous/AddStringSizes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/miscellaneous/FindDuplicatesInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/miscellaneous/OccuranceOfAllCharInString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/miscellaneous/SecondLargestNumberInList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/miscellaneous/SetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/model/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/model/Organization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/service/AService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/service/BService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/service/MainService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/service/ServiceAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/service/ServiceInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/singleton/SingletonClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/streamApi/EntryObjExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/streamApi/EntryObjExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/streamApi/StreamOnHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/streamApi/StreamOnList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/string/MaxOccaraceChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/thread/RaceConditionSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/thread/TicketBooking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +83,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KumarGauravKIIT"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KumarGauravKIIT&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KumarGauravKIIT/develop.git",
-    "accountId": "85493bc2-c57b-43a7-a709-5ce5a0ad7a95"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KumarGauravKIIT/develop.git&quot;,
+    &quot;accountId&quot;: &quot;85493bc2-c57b-43a7-a709-5ce5a0ad7a95&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-23.0.2/lib/src.zip!/java.base/java/util/function/Consumer.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,28 +112,50 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ComsumerExample.executor": "Run",
+    "Application.HashMap1.executor": "Run",
     "Application.MapPratice.executor": "Run",
+    "Application.PredicateExample.executor": "Run",
+    "Application.StreamOnList.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.singleton.Test.executor": "Run",
     "Maven.core [clean,install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/0037UR744/IdeaProjects/develop/core/src/main/oops/model",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.validation"
+    "last_opened_file_path": "C:/Users/0037UR744/IdeaProjects/develop/core",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\0037UR744\IdeaProjects\develop\core" />
       <recent name="C:\Users\0037UR744\IdeaProjects\develop\core\src\main\oops\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.core [clean,install]">
-    <configuration name="HashMapSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.HashMapSimple" />
+  <component name="RunManager" selected="Application.ComsumerExample">
+    <configuration name="ComsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.ComsumerExample" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="map.HashMap1" />
       <module name="core" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="service.MainService" />
+    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.PredicateExample" />
       <module name="core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="service.*" />
+          <option name="PATTERN" value="functional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapPratice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.MapPratice" />
+    <configuration name="StreamOnList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.StreamOnList" />
       <module name="core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellaneous.SetExample" />
-      <module name="core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="miscellaneous.*" />
+          <option name="PATTERN" value="streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +194,8 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="anonymous.Test" />
       <module name="core" />
       <extension name="coverage">
@@ -141,7 +214,6 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
-            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -151,13 +223,9 @@
                 <option value="install" />
               </list>
             </option>
-            <option name="multimoduleDir" />
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
-            </option>
-            <option name="projectsCmdOptionValues">
-              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$/core" />
@@ -167,20 +235,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MapPratice" />
-      <item itemvalue="Application.MainService" />
-      <item itemvalue="Application.SetExample" />
-      <item itemvalue="Application.HashMapSimple" />
+      <item itemvalue="Application.ComsumerExample" />
+      <item itemvalue="Application.PredicateExample" />
+      <item itemvalue="Application.StreamOnList" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.HashMap1" />
       <item itemvalue="Maven.core [clean,install]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapPratice" />
-        <item itemvalue="Application.MainService" />
-        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.ComsumerExample" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HashMapSimple" />
+        <item itemvalue="Application.PredicateExample" />
+        <item itemvalue="Application.StreamOnList" />
+        <item itemvalue="Application.HashMap1" />
       </list>
     </recent_temporary>
   </component>
